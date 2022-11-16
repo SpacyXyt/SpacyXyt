@@ -1,7 +1,6 @@
 - 👋 Hi, I’m SpacyX.
 - 👀 I’m interested in all code.
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on rinaorc
+- 🌱 I’m currently learning sql
 - 📫 How to reach me skyhnix@gmail.com
 
 <!---
