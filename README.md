@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SpacyX.
 - 👀 I’m interested in all code.
-- 🌱 I’m currently learning sql
+- 🌱 I’m currently learning discord.js
 - 📫 How to reach me skyhnix@gmail.com
 
 <!---
